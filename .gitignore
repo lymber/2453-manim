@@ -1,0 +1,6 @@
+# ensure this file is tracked
+!.gitignore
+
+# do not track auto-generated files
+media*
+__pycache__
